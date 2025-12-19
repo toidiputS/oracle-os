@@ -115,7 +115,7 @@ const WelcomeScreen: React.FC = () => {
       <GlowCard
         glowColor="purple"
         customSize={true}
-        className="w-full max-w-[280px] flex flex-col items-center mb-8 p-4"
+        className="w-full max-w-[280px] flex flex-col items-center mb-30 p-4"
       >
         <motion.div
           initial={{ opacity: 0, y: -20 }}
@@ -123,8 +123,9 @@ const WelcomeScreen: React.FC = () => {
           transition={{ duration: 0.5 }}
           className="flex flex-col items-center mb-4"
         >
+           <h1 className="text-2xl font-bold text-white mb-1">Welcome to</h1>
           <h1 className="text-2xl font-bold text-white mb-1">The Youniverse</h1>
-          <p className="text-sm text-zinc-300 text-center mb-1">Your Personalized Operating System</p>
+          <p className="text-sm text-zinc-300 text-center mb-1">No Hero. No Guru. Just a New You.</p>
 
         </motion.div>
 
@@ -154,7 +155,7 @@ const WelcomeScreen: React.FC = () => {
           </div>
           <div className="relative flex justify-center">
             <AnimatedGenerateButton
-              labelIdle="Enter the Youniverse"
+              labelIdle="Enter The Youniverse"
               onClick={handleContinue}
               className="[&>button]:px-6 [&>button]:py-1.5 [&>button]:text-sm"
             />
