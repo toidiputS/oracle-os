@@ -18,6 +18,7 @@ export { SearchIcon, VolumeIcon, NotificationIcon, ThemeIcon, PowerIcon } from '
 export { BIcon } from './BIcon';
 export { CIcon } from './CIcon';
 export { DIcon } from './DIcon';
+export { EIcon } from './EIcon';
 export { EnvoyIcon, FloIcon, GrindIcon, HelperIcon, InterpreterIcon, JamIcon, KinIcon, ListenIcon } from './HoloLiteWrapper';
 export { HoloMediumIcon } from './HoloMediumIcons';
 export { FileViewerIcon } from './FileViewerIcon';
@@ -26,6 +27,7 @@ export { IIcon } from './IIcon';
 export { JIcon } from './JIcon';
 export { KIcon } from './KIcon';
 export { LIcon } from './LIcon';
+export { MIcon } from './MIcon';
 export { NIcon } from './NIcon';
 export { OIcon } from './OIcon';
 export { PIcon } from './PIcon';
@@ -37,6 +39,7 @@ export { UIcon } from './UIcon';
 export { VIcon } from './VIcon';
 export { WIcon } from './WIcon';
 export { XIcon } from './XIcon';
+export { XRayIcon } from './XRayIcon';
 export { YIcon } from './YIcon';
 export { ZIcon } from './ZIcon';
 
