@@ -55,3 +55,13 @@ export { TypoUnfoldIcon } from './TypoUnfoldIcon';
 export { TypoVelocityIcon } from './TypoVelocityIcon';
 export { TypoWarpIcon } from './TypoWarpIcon';
 export { TypoXRayIcon } from './TypoXRayIcon';
+
+// M-T typographic holographic icons
+export { TypoMapIcon } from './TypoMapIcon';
+export { TypoNerveIcon } from './TypoNerveIcon';
+export { TypoOptimizeIcon } from './TypoOptimizeIcon';
+export { TypoPolishIcon } from './TypoPolishIcon';
+export { TypoQuickIcon } from './TypoQuickIcon';
+export { TypoResearchIcon } from './TypoResearchIcon';
+export { TypoScrollIcon } from './TypoScrollIcon';
+export { TypoTimelineIcon } from './TypoTimelineIcon';
